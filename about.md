@@ -7,10 +7,9 @@ layout: about
 title: About
 
 # Write a short (~150 characters) description of each blog post.
-# This description is used to preview the page on search engines, social media, etc.
+# Use this description to preview the page on search engines, social media, etc.
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Hi, I'm Juan Diego!
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -19,8 +18,8 @@ hide_description: true
 menu: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Hi, I'm Juan Diego!
 
-Open `about.md` to edit this text.
+I am a student at [Università Commerciale Luigi Bocconi](http://unibocconi.eu) pursuing a degree in Economics, Management and Computer Science.
+
+Feel free to connect with me on [@Linkedin](https://www.linkedin.com/in/juan-diego-donneys/).
