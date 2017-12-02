@@ -6,6 +6,7 @@ layout: about
 # The title of the page.
 title: About
 
+accent_image: /assets/img/IMG_1322.jpg
 # Write a short (~150 characters) description of each blog post.
 # Use this description to preview the page on search engines, social media, etc.
 description: >
