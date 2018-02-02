@@ -63,3 +63,4 @@ I will be using each course's respective syllabus as a rough-guide for the topic
 I will be documenting my progress through this blog and uploading my 'Feynman Lectures' on a consistent basis.
 I will be using Blog posts, Notability (a great note-taking app) and Jupyter Notebooks (for the programming aspects) as my preferred mediums of 'study'.
 
+Until then...
