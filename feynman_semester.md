@@ -4,7 +4,6 @@ layout: post
 # The title of the page.
 title: Feynman Semester
 
-accent_image: /assets/img/feynman_quote.jpg
 # Write a short (~150 characters) description of each blog post.
 # Use this description to preview the page on search engines, social media, etc.
 description: >
@@ -18,7 +17,6 @@ menu: true
 
 # Setting the 'categories' 
 categories: [feynman_semester]
-
 ---
 
 # Feynman Semester
@@ -54,7 +52,8 @@ Unless you haven't caught up by know, I will be using the Feynman Technique over
 
 This semester's classes are, in my opinion, some of the most interesting courses in my academic career and I want to take full advantage of them. 
 
-These are:
+Courses:
+
     -Machine Learning
     -Advanced Statistical Methods
     -Econometrics
