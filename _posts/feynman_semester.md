@@ -16,8 +16,10 @@ hide_description: true
 menu: true
 
 # Setting the 'categories' 
-categories: [feynman_semester]
+# categories:
 ---
+
+![Full-width image](/assets/img/IMG_1322.JPG){:.lead}
 
 # Feynman Semester
 
