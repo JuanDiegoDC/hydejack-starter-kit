@@ -16,7 +16,7 @@ hide_description: true
 # categories: [feynmansemester]
 ---
 
-![Full-width image](/assets/img/IMG_1322.JPG){:.lead}
+![Full-width image](/assets/img/feynman_quote){:.lead}
 
 # Feynman Semester
 
