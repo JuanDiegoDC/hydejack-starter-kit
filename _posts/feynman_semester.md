@@ -12,11 +12,8 @@ description: >
 # You can show the description on the page by deleting this line:
 hide_description: true
 
-# Setting `menu` will generate an entry in the sidebar.
-menu: true
-
 # Setting the 'categories' 
-# categories:
+# categories: [feynmansemester]
 ---
 
 ![Full-width image](/assets/img/IMG_1322.JPG){:.lead}
