@@ -6,7 +6,7 @@ layout: list
 title: Feynman Semester
 
 # The name of the category, used in a post's front matter (e.g. category: <slug>).
-slug: Feynman Semester
+slug: feynmansemester
 
 # (Optional) Write a short (~150 characters) description of this featured category.
 description: > Experimenting with the Feynman Technique throughout a full University semester.

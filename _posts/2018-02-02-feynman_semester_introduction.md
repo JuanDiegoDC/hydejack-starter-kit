@@ -13,7 +13,7 @@ description: >
 hide_description: true
 
 # Setting the 'categories' 
-# categories: [feynmansemester]
+categories: [feynmansemester]
 ---
 
 ![Full-width image](/assets/img/feynman_quote){:.lead}
