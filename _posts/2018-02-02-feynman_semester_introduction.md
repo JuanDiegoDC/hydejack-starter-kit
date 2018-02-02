@@ -2,7 +2,7 @@
 layout: post
 
 # The title of the page.
-title: Challenge: Feynman Semester
+title: Feynman Semester
 
 # Write a short (~150 characters) description of each blog post.
 # Use this description to preview the page on search engines, social media, etc.
@@ -13,22 +13,23 @@ description: >
 hide_description: true
 
 # Setting the 'categories' 
-categories: [challenge]
+# categories: [challenge]
 ---
 
-![Full-width image](/assets/img/feynman_quote.jpg){:.lead}
+![Full-width image]({{ site.baseurl }}/assets/img/feynman_quote.jpg){:.lead}
 
 # Feynman Semester
 
 Inspired by the peculiar character that was Nobel-prize winning, bongo-drum playing, safe-cracking physicist [Richard Feynman](http://www.feynman.com/ "Richard P. Feynman") and his renowned ability to [teach complex subjects in a simple manner](https://www.gatesnotes.com/Education/The-Best-Teacher-I-Never-Had "Take it from Bill Gates."). 
 I decided to explore a bit more on how Mr. Feynman actually managed to achieve an undisputed level of mastery in such an eclectic number of subjects.
-The Internet, being the wonderful thing it is, quickly answered my prayers: I stumbled across a number of videos and articles which introduced me to one of the latest trends of the growing 'productivity-hacker' community.
+The Internet, being the wonderful thing it is, quickly answered my call: I stumbled across a number of videos and articles which introduced me to one of the latest trends of the growing 'productivity-hacker' community.
 
 ## Meet the Feynman Technique
 
-> "Everything should be made as simple as possible, but not simpler." -Albert Einstein
+> "Everything should be made as simple as possible, but not simpler."
+> -Albert Einstein
 
-This is how it works in three-simple steps (pseudo-code?):
+This is how it works in 'pseudo-code' fashion:
 
 1. Choose a concept you want to 'master'.
 
@@ -54,16 +55,11 @@ This semester's classes are, in my opinion, some of the most interesting courses
     -Econometrics
     -Principles of Finance
 
-Clearly, a nice by-product of the Challenge would be to achieve higher-grades, but at the risk of sounding too nerdy~unless I have not given off this impression by now~is that I am truly interested in learning these subjects at a deep-level.
+Clearly, a nice by-product of the Challenge would be to achieve higher grades, but my real purpose is to be able to understand these subjects at a deep level.
 
 Therefore, the way the 'challenge' will work is the following one: 
 
-I will be using each course's respective syllabus as a rough-guide for the topics that I will be covering by using the Feynman Technique.
+I will be using each course's respective syllabus as a rough-guide for the topics that I will be covering by employing the Feynman Technique.
 I will be documenting my progress through this blog and uploading my 'Feynman Lectures' on a consistent basis.
 I will be using Blog posts, Notability (a great note-taking app) and Jupyter Notebooks (for the programming aspects) as my preferred mediums of 'study'.
-
-
-
-
-
 
