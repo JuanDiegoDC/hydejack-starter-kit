@@ -12,7 +12,8 @@ description: >
 # You can show the description on the page by deleting this line:
 hide_description: true
 
-# Setting the 'categories' 
+comments: true
+# Setting the 'categories'
 # categories: [challenge]
 ---
 
@@ -20,7 +21,7 @@ hide_description: true
 
 # Feynman Semester
 
-Inspired by the peculiar character that was Nobel-prize winning, bongo-drum playing, safe-cracking physicist [Richard Feynman](http://www.feynman.com/ "Richard P. Feynman") and his renowned ability to [teach complex subjects in a simple manner](https://www.gatesnotes.com/Education/The-Best-Teacher-I-Never-Had "Take it from Bill Gates."). 
+Inspired by the peculiar character that was Nobel-prize winning, bongo-drum playing, safe-cracking physicist [Richard Feynman](http://www.feynman.com/ "Richard P. Feynman") and his renowned ability to [teach complex subjects in a simple manner](https://www.gatesnotes.com/Education/The-Best-Teacher-I-Never-Had "Take it from Bill Gates.").
 I decided to explore a bit more on how Mr. Feynman actually managed to achieve an undisputed level of mastery in such an eclectic number of subjects.
 The Internet, being the wonderful thing it is, quickly answered my call: I stumbled across a number of videos and articles which introduced me to one of the latest trends of the growing 'productivity-hacker' community.
 
@@ -46,7 +47,7 @@ If you're interested in learning more about the Feynman Technique, I suggest you
 
 ## The Challenge
 
-Unless you haven't caught up by know, I will be using the Feynman Technique over the course of my upcoming University Semester. 
+Unless you haven't caught up by know, I will be using the Feynman Technique over the course of my upcoming University Semester.
 
 This semester's classes are, in my opinion, some of the most interesting courses in my academic career:
 
@@ -57,7 +58,7 @@ This semester's classes are, in my opinion, some of the most interesting courses
 
 Clearly, a nice by-product of the Challenge would be to achieve higher grades, but my real purpose is to be able to understand these subjects at a deep level.
 
-Therefore, the way the 'challenge' will work is the following one: 
+Therefore, the way the 'challenge' will work is the following one:
 
 I will be using each course's respective syllabus as a rough-guide for the topics that I will be covering by employing the Feynman Technique.
 I will be documenting my progress through this blog and uploading my 'Feynman Lectures' on a consistent basis.
